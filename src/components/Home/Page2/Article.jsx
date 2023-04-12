@@ -1,8 +1,8 @@
 import React from "react";
 import "./article.css";
-import Img1 from "../../assests/images/Articleimg1.png";
-import Img2 from "../../assests/images/Articleimg2.png"
-import Img3 from "../../assests/images/Articleimg3.png"
+import Img1 from "../../../assests/images/Articleimg1.png";
+import Img2 from "../../../assests/images/Articleimg2.png"
+import Img3 from "../../../assests/images/Articleimg3.png"
 
 const Article = () => {
   return (

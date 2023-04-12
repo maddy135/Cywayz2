@@ -1,7 +1,7 @@
 import React from "react";
 import "./hero.css";
 import SearchBtn from "./SearchBtn";
-import laptop from "../../assests/images/Laptop.png";
+import laptop from "../../../assests/images/Laptop.png";
 import Bookdata from './Data.json';
 const Hero = () => {
   const heading =[`Book and meet over 13,383+ mentors for 1:1 mentorship in `,<br/>,`our global community.`]
@@ -12,7 +12,7 @@ const Hero = () => {
           <h1>Good Mentors teach</h1>
           <h1>how to think, not what to think</h1>
           <p>
-            {heading.map((x)=>{
+            {heading.map((x )=>{
               return x;
             })}
           </p>

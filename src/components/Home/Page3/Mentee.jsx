@@ -1,6 +1,6 @@
 import React from "react";
 import "./mentee.css";
-import menteecontent from "../../assests/images/menteecontent.png";
+import menteecontent from "../../../assests/images/menteecontent.png";
 const Mentee = () => {
   return (
     <div>
