@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cywayz2/static/css/main.633969fb.css",
+    "main.js": "/Cywayz2/static/js/main.72a00072.js",
+    "static/media/mentee.png": "/Cywayz2/static/media/mentee.ff4562268c4203c9885e.png",
+    "static/media/Laptop.png": "/Cywayz2/static/media/Laptop.9106842833b14c418d69.png",
+    "static/media/Articleimg1.png": "/Cywayz2/static/media/Articleimg1.458eb0b38dcb244ffad8.png",
+    "static/media/Articleimg3.png": "/Cywayz2/static/media/Articleimg3.a110693fa2090381ac85.png",
+    "static/media/Articleimg2.png": "/Cywayz2/static/media/Articleimg2.35b80a710e7b6a7cd5de.png",
+    "static/media/sponsor4.png": "/Cywayz2/static/media/sponsor4.fe4fd6dbc3361bf08dee.png",
+    "static/media/sponsor1.png": "/Cywayz2/static/media/sponsor1.84cdfe68e921bddbadbf.png",
+    "static/media/sponsor3.png": "/Cywayz2/static/media/sponsor3.a151c1e4763a82f6fb06.png",
+    "static/media/sponsor5.png": "/Cywayz2/static/media/sponsor5.0c19d8eecfa7af408558.png",
+    "static/media/sponsor2.png": "/Cywayz2/static/media/sponsor2.4cdf07303df67eeb575f.png",
+    "static/media/logo.svg": "/Cywayz2/static/media/logo.96295d229539eb3e28d61cbff241e22d.svg",
+    "index.html": "/Cywayz2/index.html",
+    "main.633969fb.css.map": "/Cywayz2/static/css/main.633969fb.css.map",
+    "main.72a00072.js.map": "/Cywayz2/static/js/main.72a00072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633969fb.css",
+    "static/js/main.72a00072.js"
+  ]
+}
